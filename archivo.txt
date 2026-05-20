@@ -1,1 +1,6 @@
--e "version de rama-uno\nlinea 2\nlinea 3\nlinea 4\nlinea 5" 
+version de rama-uno
+version de rama-dos
+linea 2
+linea 3
+linea 4
+linea 5
